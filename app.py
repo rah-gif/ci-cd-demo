@@ -1,6 +1,6 @@
 
 def add(a, b):
-    return a - b
+    return a + b + 1
 
-def calculate_total(price, tax):
-    return price + tax
+
+
